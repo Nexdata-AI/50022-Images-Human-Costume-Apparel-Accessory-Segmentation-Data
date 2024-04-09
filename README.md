@@ -18,6 +18,6 @@ including multiple scenes, multiple light conditions, multiple types of costume 
 ## Data format
 the image data format is .jpg and .png, the annotation file format is .json
 ## Accuracy
-the accuracy of labels of race, gender, age group and collecting environment is over 97%;
+the accuracy of labels of race, gender, age group and collecting environment is over 97%; segmentation annotation accuracy is over 97%
 # Licensing Information
 Commercial License
