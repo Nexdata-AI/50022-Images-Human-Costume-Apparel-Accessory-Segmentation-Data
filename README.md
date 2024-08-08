@@ -3,7 +3,7 @@
 ## Description
 50,022 Images Human Costume & Apparel Accessory Segmentation Data. The gender distribution includes female and male, the race distribution is Asian, Caucasian and black race, the age distribution is teenager, young and middle-aged. The data diversity includes multiple scenes, multiple light conditions, multiple types of costume (upper garment, lower garment, and shoes), and multiple apparel accessories (bag, glasses, accessories, etc.). In terms of annotation, semantic segmentation of 47 categories object (including background, costume and apparel accessory) was adopted. The dataset can be used for tasks such as human costume & apparel accessory segmentation and fashion recommendation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/975?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/975?source=Github
 
 
 # Specifications
